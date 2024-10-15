@@ -54,7 +54,7 @@
     "@angular/cli": "^17.3.0",
     "@angular/compiler-cli": "^17.3.0",
     "@angular/language-service": "^17.3.0",
-    "@compodoc/compodoc": "^1.1.10",
+    "@compodoc/compodoc": "^1.1.26",
     "@ngxs/devtools-plugin": "^3.5.0",
     "@types/jasmine": "^3.3.16",
     "@types/jasminewd2": "~2.0.6",
